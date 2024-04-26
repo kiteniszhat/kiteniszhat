@@ -1,3 +1,3 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Emanuel Sujeta</h1>
 
-Undergraduate of Computer Science and Intelligent Systems at __AGH UST__!
+<h3 align="center">Undergraduate of Computer Science and Intelligent Systems at <b>AGH UST</b>.</h3>
