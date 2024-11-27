@@ -18,8 +18,10 @@
 <h4 align="center">Tools and technologies</h4>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="C"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="C++"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ros" height="40" alt="ROS"  />
   <img width="10" />
 </div>
