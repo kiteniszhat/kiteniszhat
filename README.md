@@ -13,6 +13,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Java"  />
+  <img width="10" />
 </div>
 
 <h4 align="center">Tools and technologies</h4>
