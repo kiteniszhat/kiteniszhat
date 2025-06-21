@@ -28,4 +28,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="sklearn"  />
+  <img width="10" />
 </div>
